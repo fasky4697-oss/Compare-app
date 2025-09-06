@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+# Node/Frontend
+node_modules/
+.next/
+dist/
+.nuxt/
+# General
+.DS_Store
+*.log
+.git/
